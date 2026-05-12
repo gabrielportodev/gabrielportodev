@@ -24,19 +24,19 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Desenvolvedor de Software dedicado à criação de sistemas robustos e eficientes. Minha expertise transita entre a agilidade do ecossistema **React/Next.js** e a resiliência do **Java/Spring Boot**. Atualmente, foco no desenvolvimento de arquiteturas modernas e escaláveis, aplicando rigorosamente princípios de **Clean Code**, **S.O.L.I.D** e metodologias ágeis.
 
-* ⚙️ **Foco Atual:** Especialização em arquitetura de microserviços e ecossistema Java.
-* 🎓 **Acadêmico:** Graduando em Análise e Desenvolvimento de Sistemas (IFNMG).
-* 🛠️ **Prática:** Liderança técnica em projetos institucionais e soluções SaaS.
+* **Foco Atual:** Especialização em arquitetura de microserviços e ecossistema Java.
+* **Acadêmico:** Graduando em Análise e Desenvolvimento de Sistemas (IFNMG).
+* **Prática:** Liderança técnica em projetos institucionais e soluções SaaS.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
-### 🧠 Backend & Infrastructure
+### Backend & Infrastructure
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -47,7 +47,7 @@ Desenvolvedor de Software dedicado à criação de sistemas robustos e eficiente
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
-### 🎨 Frontend & Mobile
+### Frontend & Mobile
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -57,20 +57,30 @@ Desenvolvedor de Software dedicado à criação de sistemas robustos e eficiente
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 </div>
 
-### 🔧 Ferramentas & Práticas
+### Ferramentas & Práticas
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
 </div>
+
 ---
 
-## 📊 Estatísticas & Atividade
+## Estatísticas & Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielportodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportodev&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielportodev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportodev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielportodev&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielportodev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=A855F7" alt="Activity Graph" />
 </div>
 
 ---
